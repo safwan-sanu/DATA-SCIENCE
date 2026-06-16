@@ -1,0 +1,27 @@
+{
+    "id": "3809C2EA",
+    "path": "C:/Users/hp/Desktop/varsha_insight_project/models/r_project_rainfall/future_forecast.R",
+    "project_path": "future_forecast.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1780506026812.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "125,0",
+        "scrollLine": "105"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1780506094,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1780506094108,
+    "read_only": false,
+    "read_only_alternatives": []
+}
